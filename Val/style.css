@@ -1,1 +1,24 @@
 #all my css goes here.
+
+<body>
+    <body bgcolor="LightSkyBlue">
+     
+     
+       <div>
+           
+        <h1 style="color:LightSlateGray;">Welcome!</h1>
+        <h1 style="color:LightSlateGray;">This is Val Olsteen.</h1>
+       <img src="IMG_9669.jpg" alt="Kode with Klossy Ice Cream Party!" style="width:50%;height:65%;">
+           <h1 style="color:LightSlateGray;">Kode with Klossy Ice Cream Party! </h1>  
+           
+          <h1 style="color:LightSlateGray;">Here are some links to cool websites!</h1>
+           <ul>
+         <li><a href="https://github.com/JadynM">GitHub</a></li>
+         <li><a href="https://kodewithklossy.com"> KWK </a></li>
+         <li><a href="/Val"> Val </a></li>
+     </ul> 
+     
+       </div>
+       
+</body>
+</html>
